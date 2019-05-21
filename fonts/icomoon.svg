@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170731 at Tue May 21 23:20:33 2019
+Created by FontForge 20170731 at Tue May 21 23:32:13 2019
  By Aleksey,,,
 </metadata>
 <defs>
@@ -18,7 +18,7 @@ Created by FontForge 20170731 at Tue May 21 23:20:33 2019
     bbox="-0.756098 -64 1317 960"
     underline-thickness="0"
     underline-position="0"
-    unicode-range="U+0020-E95A"
+    unicode-range="U+0020-E95B"
   />
 <missing-glyph 
  />
@@ -326,5 +326,9 @@ d="M110 9h164v165h-164v-165zM311 9h183v165h-183v-165zM110 210h164v183h-164v-183z
 q0 7 -5.5 12.5t-12.5 5.5h-37q-7 0 -12.5 -5.5t-5.5 -12.5v-165q0 -7 5.5 -12.5t12.5 -5.5h37q7 0 12.5 5.5t5.5 12.5zM750 210h164v183h-164v-183zM530 430h183v164h-183v-164zM750 430h164v164h-164v-164zM768 704v165q0 7 -5.5 12.5t-12.5 5.5h-37q-7 0 -12.5 -5.5
 t-5.5 -12.5v-165q0 -7 5.5 -12.5t12.5 -5.5h37q7 0 12.5 5.5t5.5 12.5zM987 741v-732q0 -30 -21.5 -51.5t-51.5 -21.5h-804q-30 0 -51.5 21.5t-21.5 51.5v732q0 29 21.5 51t51.5 22h73v55q0 37 27 64t64 27h37q38 0 64.5 -27t26.5 -64v-55h220v55q0 37 26.5 64t64.5 27h37
 q37 0 64 -27t27 -64v-55h73q30 0 51.5 -22t21.5 -51v0z" />
+    <glyph glyph-name="shopping-cart" unicode="&#xe95b;" 
+d="M402 82.5q0 -29.5 -21.5 -51.5t-51.5 -22t-51.5 22t-21.5 51.5t21.5 51t51.5 21.5t51.5 -21.5t21.5 -51zM914 82.5q0 -29.5 -21.5 -51.5t-51.5 -22t-51.5 22t-21.5 51.5t21.5 51t51.5 21.5t51.5 -21.5t21.5 -51zM987 704v-293q0 -13 -9 -23.5t-23 -12.5l-597 -70
+q8 -34 8 -40q0 -9 -14 -36h526q15 0 25.5 -11t10.5 -26t-10.5 -26t-25.5 -11h-585q-15 0 -26 11t-11 26q0 6 4.5 18t9 20.5t12.5 22.5t9 17l-101 471h-117q-15 0 -25.5 10.5t-10.5 25.5t10.5 26t25.5 11h146q10 0 17 -4t11 -9t7.5 -14t4.5 -15t3 -16.5t3 -14.5h686
+q15 0 25.5 -11t10.5 -26v0z" />
   </font>
 </defs></svg>
