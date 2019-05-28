@@ -3,8 +3,6 @@
   src:
     url('fonts/icomoon.ttf') format('truetype'),
     url('fonts/icomoon.woff') format('woff'),
-    url('fonts/icomoon.woff2') format('woff2'),
-    url('fonts/icomoon.eot') format('eot'),
     url('fonts/icomoon.svg#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -24,6 +22,45 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-user-circle:before {
+  content: "\e94f";
+}
+.icon-comments:before {
+  content: "\e938";
+}
+.icon-ellipsis-h:before {
+  content: "\e928";
+}
+.icon-user:before {
+  content: "\e904";
+}
+.icon-cart:before {
+  content: "\e90f";
+}
+.icon-angle-up:before {
+  content: "\e910";
+}
+.icon-angle-down:before {
+  content: "\e911";
+}
+.icon-angle-right:before {
+  content: "\e912";
+}
+.icon-angle-left:before {
+  content: "\e949";
+}
+.icon-phone:before {
+  content: "\e936";
+}
+.icon-folder-open:before {
+  content: "\e95c";
+}
+.icon-shopping-cart:before {
+  content: "\e95b";
+}
+.icon-calendar:before {
+  content: "\e95a";
+}
 .icon-snapchat-ghost:before {
   content: "\e958";
 }
@@ -102,9 +139,6 @@
 .icon-google:before {
   content: "\e935";
 }
-.icon-folder-open:before {
-  content: "\e936";
-}
 .icon-filter:before {
   content: "\e937";
 }
@@ -171,9 +205,6 @@
 .icon-bars:before {
   content: "\e94e";
 }
-.icon-comments:before {
-  content: "\e94f";
-}
 .icon-share-alt:before {
   content: "\e950";
 }
@@ -216,9 +247,6 @@
 .icon-square:before {
   content: "\e903";
 }
-.icon-ellipsis-h:before {
-  content: "\e904";
-}
 .icon-long-arrow-down:before {
   content: "\e905";
 }
@@ -246,18 +274,6 @@
 .icon-arrow-down:before {
   content: "\e90e";
 }
-.icon-angle-down:before {
-  content: "\e90f";
-}
-.icon-angle-up:before {
-  content: "\e910";
-}
-.icon-angle-left:before {
-  content: "\e911";
-}
-.icon-angle-right:before {
-  content: "\e912";
-}
 .icon-arrow-left:before {
   content: "\e913";
 }
@@ -272,15 +288,6 @@
 }
 .icon-plus:before {
   content: "\e900";
-}
-.icon-phone:before {
-  content: "\e949";
-}
-.icon-user:before {
-  content: "\e938";
-}
-.icon-cart:before {
-  content: "\e928";
 }
 .icon-compare:before {
   content: "\e91c";
