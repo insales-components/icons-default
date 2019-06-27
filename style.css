@@ -31,16 +31,16 @@
 .icon-info:before {
   content: "\e908";
 }
-.icon-long-arrow-alt-down:before {
+.icon-long-arrow-down:before {
   content: "\e909";
 }
-.icon-long-arrow-alt-up:before {
+.icon-long-arrow-up:before {
   content: "\e90a";
 }
-.icon-long-arrow-alt-right:before {
+.icon-long-arrow-right:before {
   content: "\e955";
 }
-.icon-long-arrow-alt-left:before {
+.icon-long-arrow-left:before {
   content: "\e95d";
 }
 .icon-exclamation:before {
